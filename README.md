@@ -1,4 +1,4 @@
-![BurguerQueen](./src/imgReadMe/quentin-lagache-76503-unsplash.jpg)
+![BurguerQueen](./img/quentin-lagache-76503-unsplash.jpg)
 
 
 # Cliente
@@ -58,15 +58,15 @@ rápidamente a los clientes que las hicieron.
 - Diagrama de Flujo del producto
 - Prototipo de alta
 
-![Investigación](./src/imgReadMe/screen15README.png)
+![Investigación](./img/screen15README.png)
 
-![Investigación2](./src/imgReadMe/screen14README.png)
+![Investigación2](./img/screen14README.png)
 
-![Investigación3](./src/imgReadMe/screen13README.png)
+![Investigación3](./img/screen13README.png)
 
-![Investigación4](./src/imgReadMe/screen12README.png)
+![Investigación4](./img/screen12README.png)
 
-![Investigación5](./src/imgReadMe/screen1README.png)
+![Investigación5](./img/screen1README.png)
 
 
 ## Proyecto / Web App Burger Queen Comandera
